@@ -1,2 +1,5 @@
 # INN-Hotel-Cancellation-Prediction
-To predict whether a hotel booking would be cancelled using a classifier model.
+Analysed features of bookings. 
+Applied classification algorithms such as Logistic Regression, Decision Trees, AdaBoost Classifier, Gradient Boosting Classifier and XGB Classifier.
+Evaluated model performance with accuracy, precision, and F1 Score.
+Built model using XGB Classifier.
